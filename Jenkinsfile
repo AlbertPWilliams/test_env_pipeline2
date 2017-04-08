@@ -5,7 +5,7 @@ pipeline {
         stage('build') {
             steps {
                 //sh 'mvn --version'
-                echo "this is a test"
+                echo "this is a new test"
             }
         }
     }
